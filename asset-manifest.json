@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Wedding/static/css/main.c334cbbf.css",
+    "main.js": "/Wedding/static/js/main.01879413.js",
+    "static/media/fon.jpg": "/Wedding/static/media/fon.a96eca8163d834acc459.jpg",
+    "index.html": "/Wedding/index.html",
+    "main.c334cbbf.css.map": "/Wedding/static/css/main.c334cbbf.css.map",
+    "main.01879413.js.map": "/Wedding/static/js/main.01879413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c334cbbf.css",
+    "static/js/main.01879413.js"
+  ]
+}
